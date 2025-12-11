@@ -1,0 +1,97 @@
+{
+	"images": [
+		{
+			"name": "knight",
+			"path": "./assets/images/knight.png",
+			"width": "256",
+			"height": "256"
+		},
+		{
+			"name": "coin",
+			"path": "./assets/images/coin.png",
+			"width": "192",
+			"height": "16"
+		},
+		{
+			"name": "world_tileset",
+			"path": "./assets/images/world_tileset.png",
+			"width": "256",
+			"height": "256"
+		},
+		{
+			"name": "platforms",
+			"path": "./assets/images/platforms.png",
+			"width": "64",
+			"height": "64"
+		},
+		{
+			"name": "fruit",
+			"path": "./assets/images/fruit.png",
+			"width": "64",
+			"height": "64"
+		},
+		{
+			"name": "slime_green",
+			"path": "./assets/images/slime_green.png",
+			"width": "96",
+			"height": "72"
+		},
+		{
+			"name": "slime_purple",
+			"path": "./assets/images/slime_purple.png",
+			"width": "96",
+			"height": "72"
+		},
+		{
+			"name": "background",
+			"path": "./assets/map.png",
+			"width": "480",
+			"height": "320"
+		},
+		{
+			"name": "background2",
+			"path": "./assets/map2.png",
+			"width": "480",
+			"height": "320"
+		},
+		{
+			"name": "background3",
+			"path": "./assets/map3.png",
+			"width": "480",
+			"height": "320"
+		},
+		{
+			"name": "background4",
+			"path": "./assets/map4.png",
+			"width": "480",
+			"height": "320"
+		}
+	],
+	"fonts": [
+		{
+			"name": "pixelOperator",
+			"path": "./assets/fonts/PixelOperator8.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "battle-start",
+			"path": "./assets/sounds/time_for_adventure.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "jump",
+			"path": "./assets/sounds/jump.wav",
+			"size": 2,
+			"volume": 1
+		},
+		{
+			"name": "coin",
+			"path": "./assets/sounds/coin.wav",
+			"size": 2,
+			"volume": 1
+		}
+
+	]
+}

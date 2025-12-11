@@ -1,0 +1,295 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/maps/map5.json",
+    "expandedProjectPaths": [
+        "assets",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Downloads/tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/3-mario-jaysonlartey/config/pokemon.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/3-mario-jaysonlartey/config/tilemap.tmx": {
+            "scale": 0.616015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280.0253646163602,
+                "y": 407.4571972098922
+            }
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/3-mario-jaysonlartey/config/tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/3-mario/src/mario-6/config/tilemap.json": {
+            "scale": 0.930703125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 337.9165617392764,
+                "y": 156.8706455133048
+            }
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/3-mario/src/mario-6/config/tilemap.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 141.5,
+                "y": 106
+            }
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/3-mario/src/mario-6/config/tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/6-pokemon-jaysonlartey/assets/maps/Tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/6-pokemon-jaysonlartey/assets/maps/pokemon.tmx": {
+            "scale": 1.1103124999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.02251618350692,
+                "y": 176.07655502392348
+            }
+        },
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/6-pokemon-jaysonlartey/config/map.json": {
+            "scale": 1.3116477272727272,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.7747455057397,
+                "y": 176.11435997400915
+            }
+        },
+        "assets/coin.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "assets/fruit.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "assets/map.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 452,
+                "y": 144.5
+            }
+        },
+        "assets/map.tmx#slime_green": {
+            "scaleInEditor": 1
+        },
+        "assets/map2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 328,
+                "y": 153.5
+            }
+        },
+        "assets/map3.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 357,
+                "y": 146.5
+            }
+        },
+        "assets/map4.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 396,
+                "y": 206.5
+            }
+        },
+        "assets/map5.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 234,
+                "y": 137.5
+            }
+        },
+        "assets/maps/coin.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/maps/fruit.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/maps/map.json": {
+            "scale": 1.4071874999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 179.4359316011548,
+                "y": 159.89340439706862
+            }
+        },
+        "assets/maps/map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 222.33333333333331,
+                "y": 135.33333333333331
+            }
+        },
+        "assets/maps/map2.json": {
+            "scale": 1.4032291666666665,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 240.51666542944108,
+                "y": 173.88464108084037
+            }
+        },
+        "assets/maps/map2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 260.3333333333333,
+                "y": 246.66666666666666
+            }
+        },
+        "assets/maps/map3.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.5,
+                "y": 160
+            }
+        },
+        "assets/maps/map3.tmx": {
+            "scale": 1.10140625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 241.0554688608313,
+                "y": 185.2177613845936
+            }
+        },
+        "assets/maps/map4.json": {
+            "scale": 1.4071874999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.84010659560295,
+                "y": 159.89340439706862
+            }
+        },
+        "assets/maps/map4.tmx": {
+            "scale": 1.10140625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 276.4647467725919,
+                "y": 186.12569158745924
+            }
+        },
+        "assets/maps/map5.json": {
+            "scale": 1.4071874999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.84010659560295,
+                "y": 159.89340439706862
+            }
+        },
+        "assets/maps/map5.tmx": {
+            "scale": 1.10140625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 200.19860973187684,
+                "y": 154.34813448716127
+            }
+        },
+        "assets/maps/platforms.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/maps/slime_green.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/maps/world_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/platforms.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/slime_green.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/coin.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/fruit.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/platforms.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/slime_green.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/slime_purple.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/world_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/world_tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/HP/OneDrive - John Abbott College/Game Programming/final-project-jayson/assets/maps",
+    "last.externalTilesetPath": "C:/Users/HP/OneDrive - John Abbott College/Game Programming/3-mario/src/mario-6/config",
+    "last.imagePath": "C:/Users/HP/OneDrive - John Abbott College/Game Programming/final-project-jayson/assets/images",
+    "map.fixedSize": true,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "assets/maps/map.json",
+        "assets/maps/map2.json",
+        "assets/maps/map3.json",
+        "assets/maps/map4.json",
+        "assets/maps/map5.json"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "assets/maps/map.json",
+        "assets/maps/map2.json",
+        "assets/maps/map3.json",
+        "assets/maps/map4.json",
+        "assets/maps/map5.json",
+        "assets/maps/map4.tmx",
+        "assets/tilesets/slime_purple.tsx",
+        "assets/maps/map.tmx",
+        "assets/maps/map2.tmx",
+        "assets/maps/map3.tmx",
+        "assets/maps/map5.tmx",
+        "C:/Users/HP/OneDrive - John Abbott College/Game Programming/6-pokemon-jaysonlartey/config/map.json"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 24,
+        "width": 24
+    }
+}
