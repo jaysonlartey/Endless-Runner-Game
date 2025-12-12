@@ -23,36 +23,8 @@ This project was created as part of the **Game Programming** course to apply gam
 - **Score Tracking**: The player’s score is based on the distance they run, and the game ends when they hit an obstacle or fall into a hole.
 - **Game Over Screen**: Displays the player’s final score and offers options to replay or exit.
 
-## Gameplay Screenshots
 
-### Start Screen
-A simple title screen where players press `ENTER` to begin their endless running adventure.
 
-![Start Screen](https://github.com/user-attachments/assets/f28dfd6b-932d-4423-9e8e-c25fb5378b0d)
-
-### Gameplay Screen
-The main gameplay screen where the player controls the character to jump over and slide under obstacles, collect coins, and avoid hazards.
-
-![Gameplay Screen](https://github.com/user-attachments/assets/b4e5caa6-7fec-4518-9138-0d339a1efdf1)
-
-### Game Over Screen
-A "Game Over" screen showing the player’s score and giving the option to replay or exit.
-
-![Game Over Screen](https://github.com/user-attachments/assets/d58fe6ff-b813-4939-802d-bbd0779a7f33)
-
-## Design
-
-### State Diagrams
-- **Game State**: Represents the different states of the game (e.g., idle, running, game over).
-- **Player State**: Defines the player's actions (e.g., jumping, running, sliding).
-
-![State Diagram](./assets/images/stateDiagram.png)
-![Player State Diagram](./assets/images/playerStateDiagram.png)
-
-### Class Diagram
-The class diagram defines the structure of the main components of the game, such as player management, obstacle handling, and score tracking.
-
-![Class Diagram](./assets/images/classDiagram.png)
 
 ### Wireframes
 The wireframes showcase the layout and user interface of the game, from the start screen to the gameplay screen.
