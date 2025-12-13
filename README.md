@@ -14,6 +14,12 @@ This project was created as part of the **Game Programming** course to apply gam
 - **Score Tracking**: The player’s score is based on the distance they run, and the game ends when they hit an obstacle or fall into a hole.
 - **Game Over Screen**: Displays the player’s final score and offers options to replay or exit.
 
+## Screenshots
+
+### Seat Selection Interface
+![Start Screen](screenshots/Start-Screen.png)
+![Gameplay](screenshots/Score.png)
+
 
 ## Asset Sources
 The game uses assets from the following sources:
