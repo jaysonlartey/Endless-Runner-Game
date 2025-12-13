@@ -16,8 +16,10 @@ This project was created as part of the **Game Programming** course to apply gam
 
 ## Screenshots
 
-### Seat Selection Interface
+### Start Screen
 ![Start Screen](screenshots/Start-Screen.png)
+
+### Gameplay
 ![Gameplay](screenshots/Score.png)
 
 
